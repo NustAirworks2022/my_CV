@@ -36,7 +36,8 @@ Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/
 *Summer 2024*  
 - **Project Advisor**: Dr. Adeel Akhtar, New Jersey Institute of Technology  
 - Developed a feedback linearization (FBL) controller for quadcopters, transitioning from MATLAB to ROS2 for real-time simulation in PX4 offboard mode.  
-- Achieved successful controller performance in simulation; currently progressing toward hardware implementation on a quadcopter.  
+- Achieved successful controller performance in simulation; currently progressing toward hardware implementation on a quadcopter.
+- [Link to Repo](https://github.com/NustAirworks2022/px4_offboard_lowlevel_FBL_CONTROLLER.git)  
 
 ---
 
