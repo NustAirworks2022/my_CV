@@ -1,6 +1,6 @@
 # Muhammad Abdullah
 
-Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/muhammad-abdullah-73795b21b](www.linkedin.com/in/muhammad-abdullah-73795b21b) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
+Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/muhammad-abdullah](www.linkedin.com/in/muhammad-abdullah-73795b21b) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
 
 ---
 
@@ -9,7 +9,7 @@ Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/
 ### Bachelor of Electrical Engineering  
 **National University of Science & Technology (NUST)** — Karachi, Pakistan  
 *May 2025 (Expected)*  
-- CGPA: 3.71/4.0  
+- CGPA: 3.69/4.0  
 - **Undergraduate Thesis**: “Development of Unmanned Guided Vehicle for Offroad Navigation”  
 - **Supervisor**: Dr. Bilal Muhammad Khan  
 
