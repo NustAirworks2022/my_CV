@@ -17,7 +17,8 @@ Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/
 - Unmanned Autonomous Systems (UAVs & UGVs)  
 - Optimal Control  
 - Nonlinear Control  
-- Multi-agent Control  
+- Multi-agent Control
+- Aerial Robotics
 
 ---
 
