@@ -1,6 +1,6 @@
 # Muhammad Abdullah
 
-Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
+Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/yourprofile](www.linkedin.com/in/muhammad-abdullah-73795b21b) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
 
 ---
 
@@ -107,11 +107,23 @@ Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/
 
 ## Skills
 
-**Software**:  
-- MATLAB, Simulink, C++, Python, ROS2, LUA Scripting, GitHub, Ardupilot, PX4, Linux  
+**Theoretical & Technical Expertise**:  
+- Classical Control, Flight Mechanics 
 
-**Hardware**:  
-- Sensor Fusion, Soldering, 3+ years UAV building  
+**Prototyping & Hands-On Experience**:  
+- UAV Platforms: Simulation, Control, and Application  
+- Integration of Hardware into Autonomous Systems: Sensors, Actuators, Vision, Perception  
+- Designing, Building, and Instrumenting Small UAVs and UGVs for Fully Autonomous Functions  
+
+**Embedded Systems & Instrumentation**:  
+- Object-Oriented Programming: C++, Python  
+- ROS2, Docker, Version Control Tools (e.g., GitHub)  
+- Hardware Selection, Networking, Hardware Communication  
+- Vehicle Design/Selection, Actuator Design/Selection, Electronic System Design  
+- PCB Design (including Gerber file export)  
+
+**Engineering Software (Expert User)**:  
+- MATLAB, Simulink, Ardupilot, PX4, Linux, LUA Scripting, ROS2, Gazebo  
 
 **EDA Software**:  
 - EasyEDA, KiCAD  
@@ -120,9 +132,8 @@ Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/
 - Urdu: Native  
 - English: Advanced  
 
----
 
-## Selected Courses
+## Certifications & Ongoing Courses Courses
 - Applied Kalman Filtering Specialization (Coursera – University of Colorado Boulder)  
 - Control Systems Analysis: Modeling of Dynamic Systems (Coursera – University of Colorado Boulder)  
 - Control of Nonlinear Spacecraft Attitude Motion (Coursera – University of Colorado Boulder)  
