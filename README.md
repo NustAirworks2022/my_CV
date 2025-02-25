@@ -1,6 +1,6 @@
 # Muhammad Abdullah
 
-Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/yourprofile](www.linkedin.com/in/muhammad-abdullah-73795b21b) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
+Karachi, Pakistan | [Email: m.abdullah17dec@gmail.com | [LinkedIn: linkedin.com/in/muhammad-abdullah-73795b21b](www.linkedin.com/in/muhammad-abdullah-73795b21b) | [GitHub: github.com/NustAirworks2022](https://github.com/NustAirworks2022)
 
 ---
 
